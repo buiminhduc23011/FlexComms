@@ -1,0 +1,26 @@
+﻿<Window
+    x:Class="FlexComms.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:FlexComms"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="FlexComms"
+    Width="1000"
+    Height="600"
+    MinWidth="1100"
+    MinHeight="600"
+    mc:Ignorable="d">
+    <TabControl Margin="2">
+        <TabItem Header="Modbus">
+            <Frame Source="View/Pages/MB_Serial_Master.xaml" />
+        </TabItem>
+        <TabItem Header="Protocols">
+            <Label Content="Comming son!" />
+        </TabItem>
+        <TabItem Header="PLCs">
+            <Label Content="Comming son!" />
+        </TabItem>
+      
+    </TabControl>
+</Window>

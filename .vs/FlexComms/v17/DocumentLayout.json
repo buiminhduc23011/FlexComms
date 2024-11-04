@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\flexcomms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:flexcomms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\view\\pages\\mb_serial_master.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:view\\pages\\mb_serial_master.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\viewmodel\\pages\\mb_serial_master_viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:viewmodel\\pages\\mb_serial_master_viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\viewmodel\\pages\\mb_tcp_master_viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:viewmodel\\pages\\mb_tcp_master_viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\base\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:base\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\view\\pages\\mb_tcp_master.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:view\\pages\\mb_tcp_master.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\resources\\mainresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:resources\\mainresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\converters\\publicconverter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:converters\\publicconverter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\converters\\activetobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:converters\\activetobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|c:\\users\\ducne\\documents\\github\\flexcomms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC01DC3-83EA-4C5A-A298-445605B272FE}|FlexComms.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ducne\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:426686534:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlexComms",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\FlexComms.csproj",
+              "RelativeDocumentMoniker": "FlexComms.csproj",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\FlexComms.csproj",
+              "RelativeToolTip": "FlexComms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T08:54:53.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MB_Serial_Master_ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\ViewModel\\Pages\\MB_Serial_Master_ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Pages\\MB_Serial_Master_ViewModel.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\ViewModel\\Pages\\MB_Serial_Master_ViewModel.cs",
+              "RelativeToolTip": "ViewModel\\Pages\\MB_Serial_Master_ViewModel.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAIwLMBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:58:08.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MB_Serial_Master.xaml",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\View\\Pages\\MB_Serial_Master.xaml",
+              "RelativeDocumentMoniker": "View\\Pages\\MB_Serial_Master.xaml",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\View\\Pages\\MB_Serial_Master.xaml",
+              "RelativeToolTip": "View\\Pages\\MB_Serial_Master.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T06:50:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Base\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Base\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Base\\RelayCommand.cs",
+              "RelativeToolTip": "Base\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:08:48.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MB_TCP_Master_ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\ViewModel\\Pages\\MB_TCP_Master_ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Pages\\MB_TCP_Master_ViewModel.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\ViewModel\\Pages\\MB_TCP_Master_ViewModel.cs",
+              "RelativeToolTip": "ViewModel\\Pages\\MB_TCP_Master_ViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:02:56.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T03:53:57.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:53:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Base\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Base\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Base\\BaseViewModel.cs",
+              "RelativeToolTip": "Base\\BaseViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:12:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MB_TCP_Master.xaml",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\View\\Pages\\MB_TCP_Master.xaml",
+              "RelativeDocumentMoniker": "View\\Pages\\MB_TCP_Master.xaml",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\View\\Pages\\MB_TCP_Master.xaml",
+              "RelativeToolTip": "View\\Pages\\MB_TCP_Master.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T07:14:10.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:10:36.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActiveToBooleanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Converters\\ActiveToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\ActiveToBooleanConverter.cs",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Converters\\ActiveToBooleanConverter.cs",
+              "RelativeToolTip": "Converters\\ActiveToBooleanConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:37:53.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T06:36:16.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainResource.xaml",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Resources\\MainResource.xaml",
+              "RelativeDocumentMoniker": "Resources\\MainResource.xaml",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Resources\\MainResource.xaml",
+              "RelativeToolTip": "Resources\\MainResource.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T06:35:58.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicConverter.xaml",
+              "DocumentMoniker": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Converters\\PublicConverter.xaml",
+              "RelativeDocumentMoniker": "Converters\\PublicConverter.xaml",
+              "ToolTip": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\Converters\\PublicConverter.xaml",
+              "RelativeToolTip": "Converters\\PublicConverter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T07:39:17.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Ducne\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Ducne\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:17:59.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

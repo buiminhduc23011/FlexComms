@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhnS0E2WMBI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ducne\\Documents\\GitHub\\FlexComms\\FlexComms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ducne\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\easymodbuscore\\1.0.0\\easymodbuscore.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\easymodbustcp\\5.6.0\\easymodbustcp.5.6.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\materialdesignthemes.mahapps\\3.1.0\\materialdesignthemes.mahapps.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\nmodbus4\\2.1.0\\nmodbus4.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ducne\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EasyModbusTCP 5.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EasyModbusTCP",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NModbus4 2.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NModbus4",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
